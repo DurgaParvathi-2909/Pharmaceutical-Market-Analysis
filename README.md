@@ -94,7 +94,7 @@ Pharmaceutical companies should explore opportunities to improve drug availabili
 Drugs like Mefloquine, with minimal competition, present opportunities for manufacturers to expand their product lines in niche therapeutic categories.
 
 # Snapshot of Pharmaceutical Market Analysis (Power BI Desktop)
-![Screenshot 2024-10-04 160157](https://github.com/user-attachments/assets/e5c82ec9-4c62-4481-9107-d81d88be3140)
+![Pharmaceutical Market Analysis](https://github.com/user-attachments/assets/93d6227e-2308-4d36-8ef4-7633f60a3836)
 
  
  

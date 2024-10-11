@@ -93,6 +93,8 @@ Pharmaceutical companies should explore opportunities to improve drug availabili
 𝗠𝗮𝗿𝗸𝗲𝘁 𝗣𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹 𝗳𝗼𝗿 𝗡𝗶𝗰𝗵𝗲 𝗗𝗿𝘂𝗴𝘀:
 Drugs like Mefloquine, with minimal competition, present opportunities for manufacturers to expand their product lines in niche therapeutic categories.
 
+Please give your valuable feedback and suggestions for further improvement.
+
 # Snapshot of Pharmaceutical Market Analysis (Power BI Desktop)
 ![Pharmaceutical Market Analysis](https://github.com/user-attachments/assets/93d6227e-2308-4d36-8ef4-7633f60a3836)
 
